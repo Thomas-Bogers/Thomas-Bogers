@@ -1,1 +1,11 @@
-![cover](https://github.com/Thomas-Bogers/Thomas-Bogers/blob/main/lightbulb-1875247_1920.jpg)
+# Thomas BOGERS
+
+Web developper / **Code Padawan**
+
+💻 Use : Html / Css / Javascript
+
+📚 Want to learn : TDD / DDD / Clean Code / Architecture practices / CSS Animations 
+
+✋🏻 Need help with : TDD / CSS Animations
+
+🇫🇷 / 🇬🇧 
