@@ -2,7 +2,7 @@
 
 Web developper / **Code Padawan**
 
-💻 Use : Html / Css / Javascript
+💻 Use : Html / Css / Javascript / PHP
 
 📚 Want to learn : TDD / DDD / Clean Code / Architecture practices / CSS Animations 
 
