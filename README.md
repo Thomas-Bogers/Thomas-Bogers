@@ -2,10 +2,10 @@
 
 Web developper / **Code Padawan**
 
-💻 Use : Html / Css / Javascript / PHP
+💻 Use : Html / CSS { SASS, TailwindCSS } / Javascript { Node.js, React, Vue } / NoSQL { MongoDB } / Git /
 
-📚 Want to learn : TDD / DDD / Clean Code / Architecture practices / CSS Animations 
+📚 Want to learn :  PHP / Symfony / MySQL / Wordpress / Webpack / TDD / DDD / Clean Code / Architecture practices /
 
-✋🏻 Need help with : TDD / CSS Animations
+✋🏻 Need help with : TDD / DDD 
 
 🇫🇷 / 🇬🇧 
