@@ -8,6 +8,7 @@ Web developper / **Code Padawan**
 
 On-going projects : 
   Online CV : https://thomasbogers.github.io/
+  
   TTRPG Character Creator : https://github.com/ThomasBogers/charactercreator
 
 ✋🏻 Need help with : TDD / DDD 
